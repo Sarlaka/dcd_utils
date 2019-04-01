@@ -1,0 +1,23 @@
+{
+  "name": "dcd_utils",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sarlaka/dcd_utils.git"
+  },
+  "keywords": [
+    "util",
+    "function"
+  ],
+  "author": "duchengdong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sarlaka/dcd_utils/issues"
+  },
+  "homepage": "https://github.com/Sarlaka/dcd_utils#readme"
+}
