@@ -1,5 +1,5 @@
 // 随机生成uuid
-export default uuid = () => {
+function uuid() {
     var s = [];
     var hexDigits = "0123456789abcdef";
     for (var i = 0; i < 36; i++) {
@@ -12,3 +12,4 @@ export default uuid = () => {
     var uuid = s.join("");
     return uuid;
 }
+module.exports = uuid

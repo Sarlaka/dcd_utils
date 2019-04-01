@@ -1,6 +1,6 @@
 {
   "name": "dcd_utils",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Some common functions which are used frequently in development.",
   "main": "index.js",
   "scripts": {
